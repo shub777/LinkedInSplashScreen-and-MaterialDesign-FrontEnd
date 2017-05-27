@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0087BE</color>
+    <color name="colorPrimaryDark">#0070A8</color>
+
+    <color name="colorAccent">#b9b9b9</color>
+
+    <color name="screen1">#ECEFF1</color>
+    <color name="screen2">#1565C0</color>
+    <color name="screen3">#1565C0</color>
+
+    <color name="inactive_screen1">#9E9E9E</color>
+    <color name="inactive_screen2">#9E9E9E</color>
+    <color name="inactive_screen3">#9E9E9E</color>
+
+    <color name="active_screen1">#F5F5F5</color>
+    <color name="active_screen2">#F5F5F5</color>
+    <color name="active_screen3">#F5F5F5</color>
+
+    <array name="dot_active">
+        <item>@color/active_screen1</item>
+        <item>@color/active_screen2</item>
+        <item>@color/active_screen3</item>
+    </array>
+
+    <array name="dot_inactive">
+        <item>@color/inactive_screen1</item>
+        <item>@color/inactive_screen2</item>
+        <item>@color/inactive_screen3</item>
+    </array>
+
+    <color name="intro_slider_screen_textColor">#90CAF9</color>
+    <color name="colorHighlight">#B6B6B6</color>
+    <color name="footer_button_background">#f9f9f9</color>
+    <color name="edittext_hint_color">#FFC4C4C4</color>
+    <color name="splash_color">#FFFFFF</color>
+    <color name="mainactivity_bg">#f3f3f3</color>
+    <color name="profile_text_color">#e4e4e4</color>
+    <color name="login_text_color">#FFFFFF</color>
+    <color name="color_textview">#f39c12</color>
+</resources>

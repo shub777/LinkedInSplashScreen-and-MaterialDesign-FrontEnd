@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_top_padding">24dp</dimen>
+    <dimen name="footer_margin_top">69dp</dimen>
+    <dimen name="login_margin_top">48dp</dimen>
+    <dimen name="profile_header">94dp</dimen>
+</resources>
