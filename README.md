@@ -1,2 +1,1 @@
-# LinkedInSplashScreen-and-MaterialDesign-FrontEnd
-How to make LinkedIn type SplashSceen with Login,Signup functionality,Scrollable Navigation Drawer and MaterialDesign Front End
+Facebook and Instagram like android applications where a content writer can post articles or poems. Featured their articles by paying a certain amount.
